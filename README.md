@@ -6,3 +6,11 @@ Now you have to find which number is missing.
 Run the code in terminal by using the command:
 
 python missing_num.py
+
+Then pass the inputs.
+For example:
+
+Enter n: 5
+1 2 3 5
+
+The output will be printed as 4.
